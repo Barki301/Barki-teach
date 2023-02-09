@@ -1,6 +1,6 @@
 
-#WhatsApp : 01615161056
-#Github : SPY1x1
+#WhatsApp : 03110919369
+#Github : Barki301
 from os import path
 import os,base64,zlib,pip,urllib
 try:
